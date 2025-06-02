@@ -1,1 +1,3 @@
-Easta es una prueba de configuracion de GITHUB
+Esta es una prueba de configuracion de GITHUB
+
+Acabo de agregar informacion al archivo que tengo en GITHUB
