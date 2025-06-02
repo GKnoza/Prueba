@@ -1,13 +1,8 @@
 Esta es una prueba de configuracion de GITHUB
-
 Acabo de agregar informacion al archivo que tengo en GITHUB
-
 Este es el tercer cambio que realizo al archivo para ver la funcionalidad
 
 Primero se guarda el cambio
-
 Luego se cambia el stage
-
 Se comenta
-
 Y luego se sube
